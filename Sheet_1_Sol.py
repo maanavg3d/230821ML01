@@ -24,10 +24,7 @@
 ##a = (input('Enter a number'))
 ##b = eval(input('Enter range'))
 ##l = [int(i*a) for i in range(1,b+1)]
-##summ = 0
-##for n in l:
-##    summ+=n
-##print('Sum of the following pattern {}'.format(l) , '= ',summ)
+##print('Sum of the following pattern {}'.format(l) , '= ',sum(l))
 
 #######question 10 ##########
 
